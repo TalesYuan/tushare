@@ -4,7 +4,7 @@ QQÈº297882961£ºÌá³ökÏßÊı¾İ¸´È¨¼ÛµÄÎÊÌâ¡¢·ÖÖÓÊı¾İ²»¹»¶àµÄÎÊÌâ
 
 2015-03-01
 -----------
-QQÈº275882700£º@ÆæÁã²İ Ìá³ö²¿·ÖkÏß´íÎóµÄÎÊÌâ£¬¼ì²éºóÈ·ÊµÊÇ·ï»Ë²Æ¾­Êı¾İÔ´µÄÎÊÌâ£¨ÒÔºó»»sina£©
+QQÈº275882700£º@ÆæÁã²İ Ìá³ö²¿·ÖkÏß´íÎóµÄÎÊÌâ£¬¼ì²éºóÈ·ÊµÊÇ·ï»Ë²Æ¾­Êı¾İÔ´µÄÎÊÌâ£¨¿É¸ÄÓÃget_h_data()½Ó¿Ú£©
 
 2015-03-02
 -----------
@@ -20,3 +20,29 @@ QQÈº297882961:@Õã½­-QT£¬Ìá³ö002738¹ÉÆ±µÄÀúÊ·Êı¾İ±¨´í£¨get_hist_data£©£¬¾­¹ı¼ì²é£
 2015-04-10
 -------------
 Ö¾ºÆÌá³ö¸´È¨Êı¾İµÄÊı¾İÀàĞÍÎªobject£¨ÒÑĞŞÕı£©
+
+2015-04-16
+-------------
+Î¢²©@ariestiger£¬±¨¸æget_h_data()µÄ³É½»Á¿ÁĞÃûÆ´Ğ´´íÎó
+
+
+2015-05-01
+------------------
+QQÈº297882961:@Koff£¬Ìá³öÔÚÊ¹ÓÃget_today_tick½Ó¿ÚµÄÊ±ºò±¨UnboundLocalError: local variable 'data' referenced before assignmentÒì³££¨ÊÕÅÌºóÍíÉÏµ÷ÓÃµÄ£©
+
+2015-05-05
+QQ Mr.OKÌá³öÔö¼Ó¹«Ë¾¹É¶«ÊıµÄ½Ó¿Ú
+
+
+PHENXI-ÆÚ»õĞèÇó
+--------------------
+http://vip.stock.finance.sina.com.cn/mkt/#hqIndex
+Õâ¸öÒ³ÃæÓĞ±È½ÏÈ«µÄÊĞ³¡ĞÅÏ¢
+http://blog.sina.com.cn/s/blog_7ed3ed3d0101gphj.html
+ÕâÆªÎÄÕÂÁĞ³öÁËÒ»Ğ©Êı¾İ½á¹¹
+http://quote.hexun.com/futures/newfutures.aspx?market=9&type=all&n=%C8%AB%B2%BF 
+http://webcffex.hermes.hexun.com/cffex/kline?code=CFFEXIH1606&start=20160206091500&number=-1000&type=5
+PHENXI 2016/2/15 8:57:44
+http://webftcn.hermes.hexun.com/ 
+
+http://webcffex.hermes.hexun.com/cffex/quotelist?code=CFFEXIH1606,CFFEXIF1609,CFFEXIC1603,dceA1611,CFFEXIC1512,&column=code,name,price,priceweight,updownrate,high,low,updown,lastclose,open&callback=getdata1&callback=jQuery111107492109271895186_1455497884413&_=1455497884414
